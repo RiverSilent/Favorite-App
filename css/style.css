@@ -1,0 +1,18 @@
+body{
+	font-family: sans-serif;
+	color: #7c8b88;
+	width: 900px;
+	margin: auto;
+}
+
+header{
+	background-color: #33bebe;
+	color: #fff;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+.main-content{
+	display: flex;
+	flex-wrap: wrap;
+}
